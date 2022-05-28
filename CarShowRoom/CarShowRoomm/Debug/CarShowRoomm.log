@@ -1,0 +1,7 @@
+﻿  CarShowRoomm.cpp
+E:\s'second year\problem solving\CarShowRoomm\CarShowRoomm\CarShowRoomm.cpp(14,7): warning C4101: 'l': unreferenced local variable
+E:\s'second year\problem solving\CarShowRoomm\CarShowRoomm\CarShowRoomm.cpp(116,7): warning C4101: 'l': unreferenced local variable
+E:\s'second year\problem solving\CarShowRoomm\CarShowRoomm\CarShowRoomm.cpp(253,22): warning C4018: '<': signed/unsigned mismatch
+E:\s'second year\problem solving\CarShowRoomm\CarShowRoomm\CarShowRoomm.cpp(270,22): warning C4018: '<': signed/unsigned mismatch
+E:\s'second year\problem solving\CarShowRoomm\CarShowRoomm\CarShowRoomm.cpp(321,23): warning C4018: '<': signed/unsigned mismatch
+  CarShowRoomm.vcxproj -> E:\s'second year\problem solving\CarShowRoomm\Debug\CarShowRoomm.exe
